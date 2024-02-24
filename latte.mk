@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
     libshim_camera \
     libshim_sensors \
     libstlport
+##    libui_shim
 
 # Lights
 #PRODUCT_PACKAGES += \
